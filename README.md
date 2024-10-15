@@ -1,3 +1,3 @@
 # user_authentication_system
 
-A new Flutter project.
+A user authentication system made with flutter.

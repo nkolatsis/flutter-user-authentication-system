@@ -1,5 +1,5 @@
-name: user_authetnication_system
-description: "A new Flutter project."
+name: user_authentication_system
+description: "A user authentication system made with flutter."
 publish_to: 'none'
 version: 0.1.0
 
@@ -9,6 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+    #flutter_bloc:
+    #dio:
+    #get_it:
 
 dev_dependencies:
   flutter_test:

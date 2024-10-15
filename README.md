@@ -1,3 +1,3 @@
-# user_authetnication_system
+# user_authentication_system
 
 A new Flutter project.

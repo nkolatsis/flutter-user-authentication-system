@@ -1,4 +1,4 @@
-package com.nicholaskolatsis.user_authetnication_system
+package com.nicholaskolatsis.user_authentication_system
 
 import io.flutter.embedding.android.FlutterActivity
 
